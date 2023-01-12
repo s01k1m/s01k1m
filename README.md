@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=#A567B7&height=300&section=header&text=Kim% Sol&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:5c8eb7,100:a82da8&height=300&section=header&text=Kim%20Sol&fontSize=90)
 
 ### Hi there 👋
 
