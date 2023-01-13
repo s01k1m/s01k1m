@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:5c8eb7,100:a82da8&height=300&section=header&text=Kim%20Sol&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=0:5c8eb7,100:a82da8&height=300&section=header&text=Kim%20Sol&fontSize=90&fontAlignY=40&animation=fadeIn&strokeWidth=2&stroke=ffffff)
+
 
 ### Hi there 👋
 
