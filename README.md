@@ -1,7 +1,23 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=0:5c8eb7,100:a82da8&height=300&section=header&text=Kim%20Sol&fontSize=90&fontAlignY=40&animation=fadeIn&strokeWidth=2&stroke=ffffff)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=0:5c8eb7,100:575893&height=200&section=header&text=sol's%20github&fontSize=90&fontAlignY=40&animation=fadeIn&strokeWidth=2&stroke=ffffff&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=8977AD&section=header&text=sol's%20github&fontColor=ffffff&strokeWidth=2&stroke=ffffff)
+
+
+ @import url('https://fonts.googleapis.com/css2?family=Gowun+Dodum&display=swap');
+ @font-face {
+    font-family: 'GangwonEdu_OTFBoldA';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2201-2@1.0/GangwonEdu_OTFBoldA.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
 
 https://github.com/subframe7536/Maple-font
 ### Hi there 👋
+한글 폰트
+
+<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
+
 
 <!--
 **s0lk1m/s0lk1m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
