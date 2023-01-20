@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:5c8eb7,100:575893&height=200&section=header&text=sol's%20github&fontSize=90&fontAlignY=40&animation=fadeIn&strokeWidth=2&stroke=ffffff&fontColor=ffffff)
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=8977AD&section=header&text=sol's%20github&fontColor=ffffff&strokeWidth=2&stroke=ffffff)
 
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=40&duration=4000&pause=2000&color=7D7ED2&center=true&vCenter=true&width=700&height=100&lines=Hello.+I'm+Sol+Kim.;I'm+currently+studying+Python+in+SSAFY.;I'm+interested+in+Web.)](https://git.io/typing-svg)
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=40&duration=4000&pause=2000&color=7D7ED2&center=true&vCenter=true&width=700&height=100&lines=Hello.+I'm+Sol+Kim.;I'm+currently+studying+Python+in+SSAFY.;I'm+interested+in+Web.)](https://git.io/typing-svg)
 
  @import url('https://fonts.googleapis.com/css2?family=Gowun+Dodum&display=swap');
  @font-face {
