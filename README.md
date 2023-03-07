@@ -6,7 +6,7 @@
 <div align="center">
 <br>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tilt+Neon&pause=1000&color=575893&center=true&vCenter=true&repeat=false&3&width=700&lines=Hello.+I'm+Sol+Kim.+I'm+currently+studying+Python+in+SSAFY.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tilt+Neon&pause=1000&color=575893&center=true&vCenter=true&repeat=true&3&width=700&lines=Hello.+I'm+Sol+Kim.+I'm+currently+studying+Python+in+SSAFY.)](https://git.io/typing-svg)
 </div>
 <h4> 📋 Once I've Used </h4>
 <br>
