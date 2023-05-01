@@ -34,7 +34,7 @@
 <br>
 
 <p align="center">
-🌱 I’m currently learning Python, Django as trainee of Samsung Electronics' Software Academy for Youth.<br><br>
+🌱 I’m currently learning Python, Django as a trainee of Samsung Electronics' Software Academy for Youth.<br><br>
 🎯 In the first half of this year, I want to do some toy projects using React.<br><br>
 🤞 Oneday, I hope to..
 </p>
