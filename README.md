@@ -59,7 +59,7 @@
 </p>
 
 <h4>◡̎ 𝐅𝐨𝐥𝐥𝐨𝐰 𝐌𝐞 </h4>
- <a href="https://velog.io/@zaman17"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@s01k1m/posts"/></a>
+ <a href="https://velog.io/@s01k1m/posts"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@s01k1m/posts"/></a>
  <a href="mailto:sk618dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sk618dev@gmail.com"/></a>
 <!-- 
  go to see the UEFA game and F1.
