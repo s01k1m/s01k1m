@@ -61,11 +61,11 @@
 <h4>◡̎ 𝐅𝐨𝐥𝐥𝐨𝐰 𝐌𝐞 </h4>
  <a href="https://velog.io/@s01k1m/posts"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@s01k1m/posts"/></a>
  <a href="mailto:sk618dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sk618dev@gmail.com"/></a>
+<br/>
 <!-- 
  go to see the UEFA game and F1.
  -->
-
-
+  
 
 <!--
 **s0lk1m/s0lk1m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -79,3 +79,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/s01k1m?pet-id=602352517804158466"
+    width="600"
+    height="120"
+  />
+</a>
+  
