@@ -2,14 +2,14 @@
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:5c8eb7,100:575893&height=200&section=header&text=sol's%20github&fontSize=90&fontAlignY=40&animation=fadeIn&strokeWidth=2&stroke=ffffff&fontColor=ffffff) -->
 <h1>
- (｡•̀ᴗ-)✦ 𝗦𝗢𝗟'𝘀 𝗚𝗜𝗧𝗛𝗨𝗕 
+𐌔𐌏𐌋'͎𐌔 Ᏽ𐌉𐌕𐋏𝖴𐌁 (｡•̀ᴗ-)✦
 </h1>
 <div align="center">
 <br />
- 
+Hello! My name is Sol. Nice to meet you. ⸜(⌯'▾'⌯)⸜
 
 </div>
-<h4>◡̎ 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤 </h4>
+<h1>💻 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤 💻</h1>
 <p align="left">
  <span>𝙛𝙧𝙤𝙣𝙩</span>
  <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -48,22 +48,23 @@
 </p>
 
 
-<h4>◡̎ 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞</h4>
+<h1>Ꙭ̮ 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 Ꙭ̮</h1>
 <p align="left">
-⟡ 𝘐 𝘸𝘢𝘴 𝘢 9𝘵𝘩 𝘵𝘳𝘢𝘪𝘯𝘦𝘦 𝘰𝘧 𝘚𝘢𝘮𝘴𝘶𝘯𝘨 𝘌𝘭𝘦𝘤𝘵𝘳𝘰𝘯𝘪𝘤𝘴' 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘈𝘤𝘢𝘥𝘦𝘮𝘺 𝘧𝘰𝘳 𝘠𝘰𝘶𝘵𝘩
+☝️ 𝘐 𝘸𝘢𝘴 𝘢 9𝘵𝘩 𝘵𝘳𝘢𝘪𝘯𝘦𝘦 𝘰𝘧 𝘚𝘢𝘮𝘴𝘶𝘯𝘨 𝘌𝘭𝘦𝘤𝘵𝘳𝘰𝘯𝘪𝘤𝘴' 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘈𝘤𝘢𝘥𝘦𝘮𝘺 𝘧𝘰𝘳 𝘠𝘰𝘶𝘵𝘩
 <br />
-⟡ 𝘐 𝘭𝘪𝘬𝘦 𝘵𝘰 𝘤𝘳𝘦𝘢𝘵𝘦 𝘶𝘴𝘦𝘧𝘶𝘭 𝘵𝘩𝘪𝘯𝘨𝘴 𝘶𝘴𝘪𝘯𝘨 𝘙𝘦𝘢𝘤𝘵
-<br />
-⟡ 𝘚𝘰𝘮𝘦𝘥𝘢𝘺.. 𝘐 𝘩𝘰𝘱𝘦 𝘉𝘝𝘉 𝘸𝘪𝘯𝘴 𝘵𝘩𝘦 𝘉𝘶𝘯𝘥𝘦𝘴𝘭𝘪𝘨𝘢 🖤💛
-</p>
+✌️ 𝘐 𝘭𝘪𝘬𝘦 𝘵𝘰 𝘤𝘳𝘦𝘢𝘵𝘦 𝘶𝘴𝘦𝘧𝘶𝘭 𝘵𝘩𝘪𝘯𝘨𝘴 𝘶𝘴𝘪𝘯𝘨 𝘙𝘦𝘢𝘤𝘵
 
-<h4>◡̎ 𝐄𝐧𝐣𝐨𝐲 𝐦𝐲 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 </h4>
+
+<h1> 🎉 𝐄𝐧𝐣𝐨𝐲 𝐦𝐲 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 🎉 </h1>
+
 <a href="https://www.4pic.today/">
 <img width="120px" src="https://github.com/user-attachments/assets/ad5c81f4-8096-488d-b86e-daf28bb9c297"/><br/>
-🅗🅞🅦 🅐🅑🅞🅤🅣 🅐 ❹-🅒🅤🅣 🅟🅗🅞🅣🅞?
 </a>
+ 🔗
+<a href="https://www.4pic.today/"> https://www.4pic.today/</a>
 
-<h4>◡̎ 𝐅𝐨𝐥𝐥𝐨𝐰 𝐌𝐞 </h4>
+<p>🔼 How about to take a 4-cut photo? 🔼 </p>
+<h1>🙋‍♀️ 𝐅𝐨𝐥𝐥𝐨𝐰 𝐌𝐞 🙋‍♀️ </h1>
 <a href="https://velog.io/@s01k1m/posts"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@s01k1m/posts"/></a>
 <a href="mailto:sk618dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sk618dev@gmail.com"/></a>
 <br/>
